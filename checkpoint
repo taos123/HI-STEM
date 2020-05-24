@@ -1,0 +1,2 @@
+model_checkpoint_path: "TUL_Attention_Gowalla.ckpt"
+all_model_checkpoint_paths: "TUL_Attention_Gowalla.ckpt"
